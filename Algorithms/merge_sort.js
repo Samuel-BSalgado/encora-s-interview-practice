@@ -2,6 +2,8 @@
 //dividir: dividir el arreglo en mitades hasta llegar a tamaño 1
 //conquistar: combinar esas mitades ordenándolas al volver a crear un array con el orden especificado
 
+//Merge Sort sirve con arreglos desordenados pero NO con numeros repetidos
+
 const arrayDesordnado = [100, 5, 26, 27, 30, 50, 7, 8, 9, 1];
 
 function mergeSort(array) {

@@ -1,3 +1,4 @@
+//Quick Sort sirve con arreglos desordenados y TAMBIÉN con numeros repetidos
 const disorderedArray = [10, 5, 8, 1, 2, 4, 67, 20, 9, 11];
 
 function quick_sort(array) {
